@@ -117,4 +117,4 @@ Confirmar fontes reais de dados com os responsáveis, validar as premissas, roda
 
 ## Equipe
 
-André, Carlos e Gabriel. Orientadora: Profa. Dra. Michele 
+Carlos e André. Orientadora: Profa. Dra. Michele 
