@@ -1,4 +1,10 @@
 # university-extension-project-I
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+
 Productivity analysis of Macete SENAI 4.0 machining and assembly using simulated data, Python, SQLite and Power BI. Faculdade SENAI-FIEMG.
 Prova de conceito didática de análise de produtividade com **dados simulados**.
 Projeto da UCE I – Fábrica 4.0, Ciência de Dados, Faculdade SENAI-FIEMG (Belo Horizonte), Grupo 2.
